@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="total">Total</string>
+    <string name="enter_total_price">Enter Total Price</string>
+    <string name="enter_down_payment">Enter Down Payment</string>
+    <string name="interest_rate">Interest \nRate (%)</string>
+    <string name="monthly_payment">Monthly</string>
+    <string name="loan">Loan</string>
+    <string name="years">Number\nof Years</string>
+    <string name="interest_TextView">Enter Interest Rate</string>
+    <string name="default_results">Enter information \nabove to get started!</string>
+</resources>

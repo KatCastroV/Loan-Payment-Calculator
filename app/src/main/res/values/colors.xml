@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA000</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#E64A19</color>
+    <color name="price_background">#FBC02D</color>
+    <color name="payment_background">#FBC02D</color>
+    <color name="result_background">#FBC02D</color>
+    <color name="layout_background">#FBC02D</color>
+</resources>
